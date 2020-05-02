@@ -1,0 +1,7 @@
+Azure login:
+vamsi@gdriverptest.onmicrosoft.com
+McAfee_2020
+
+Skyhigh@2021
+
+ou=Users,dc=gdriverptest,dc=onmicrosoft,dc=com
